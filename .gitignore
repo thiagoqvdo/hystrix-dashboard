@@ -20,6 +20,10 @@
 *.tar
 *.zip
 
+# Must not ignore #
+###############
+!gradle/wrapper/gradle-wrapper.jar
+
 # Logs and databases #
 ######################
 *.log
